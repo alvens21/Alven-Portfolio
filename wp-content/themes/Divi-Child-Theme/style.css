@@ -1,0 +1,39 @@
+/*
+ Theme Name:   High6 Creatives
+ Theme URI:    http://www.high6.com/
+ Description:  A Child Theme built for 
+ Author:       High6 Creatives
+ Author URI:   http://www.high6.com/
+ Version:      1.0
+ Template:     Divi
+*/
+
+/*---
+Page Not Found
+---*/
+
+.error404 #main-content #et-top-navigation {
+    padding-top: 18px !important; }
+
+.error404 #main-content .container:before {
+    display: none; }
+
+.error404 #main-content .container {
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important; }
+
+.error404 #main-content .container #left-area {
+    float: none !important;
+    padding: 0 !important;
+    width: 100% !important; }
+
+.error404 #main-content .container #sidebar {
+    display: none; }
+
+.error404 #main-content .container #left-area article {
+    margin: 0; }
+
+.error404 #main-content .header-content h1,
+.error404 #main-content .et_pb_fullwidth_header_subhead {
+    color: #ffffff; }
